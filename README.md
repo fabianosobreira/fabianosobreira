@@ -2,7 +2,7 @@
 
 I’m a .NET Platform Software Engineer from Brazil.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabianosobreira&theme=dracula&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabianosobreira&theme=transparent&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet" alt="DotNet" width="40" height="40"/>&nbsp;
